@@ -2,9 +2,13 @@
 ### Hệ Thống Kỹ Năng AI Chuyên Sâu Biên Soạn Ebook Bài Giảng Phục Hồi Chức Năng & Vật Lý Trị Liệu
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Download Zip](https://img.shields.io/badge/Download-ZIP_Package-orange.svg)](https://github.com/drthuanld-rehab/pmr-ebook-pedagogical-suite/raw/main/dist/pmr-ebook-pedagogical-suite.zip)
 [![Antigravity IDE](https://img.shields.io/badge/Antigravity-Compatible-blue.svg)](https://antigravity.google)
 [![Claude Projects](https://img.shields.io/badge/Claude-Compatible-purple.svg)](https://anthropic.com)
 [![Codex / OpenAI](https://img.shields.io/badge/Codex-Compatible-green.svg)](https://openai.com)
+
+> 📦 **Tải Nhanh Trọn Bộ:** Nhấp vào đây để tải ngay [**pmr-ebook-pedagogical-suite.zip**](https://github.com/drthuanld-rehab/pmr-ebook-pedagogical-suite/raw/main/dist/pmr-ebook-pedagogical-suite.zip) (Bao gồm đầy đủ 13 skills, tài liệu kiến trúc, danh mục BYT 2024-2025 và 2 bài giảng mẫu).
+
 
 **PM&R Pedagogical Skill Suite** là bộ kỹ năng chuyên biệt dành cho các Trợ lý AI (Antigravity IDE, Anthropic Claude, OpenAI Codex/ChatGPT) nhằm tự động hóa quy trình biên soạn giáo trình, chương sách Ebook và bài giảng Y khoa chuẩn mực cao cho chuyên ngành **Phục hồi Chức năng & Vật lý Trị liệu (PM&R)**.
 
